@@ -5,3 +5,5 @@ check out, return, and place holds on books. Librarians can view available books
 
 The purpose of this project was to explore database connections and basic GUIs in Java as opposed to web scraping or
 data engineering, and so the database is populated with placeholder data.
+
+(*Note:* The database has since been shut down, so the program will not populate with any data)
